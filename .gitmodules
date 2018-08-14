@@ -1,0 +1,3 @@
+[submodule "tests/N64-PD-ROMS"]
+	path = tests/N64-PD-ROMS
+	url = git@github.com:vgturtle127/N64-PD-ROMS.git
